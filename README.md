@@ -1,10 +1,10 @@
-# 💳 Credit Card Default Prediction
+#  Credit Card Default Prediction
 
 Prédiction des défauts de paiement par carte de crédit à partir du dataset UCI — un projet complet de bout en bout combinant analyse exploratoire, sélection de variables par WOE/IV, gestion du déséquilibre de classes et modélisation.
 
 ---
 
-## 📌 Contexte
+##  Contexte
 
 Dans le secteur bancaire, anticiper le défaut de paiement d'un client est un enjeu majeur pour la gestion du risque de crédit. Ce projet s'appuie sur un dataset réel de 30 000 clients d'une banque taïwanaise pour construire un modèle de scoring prédictif.
 
@@ -13,7 +13,7 @@ Dans le secteur bancaire, anticiper le défaut de paiement d'un client est un en
 
 ---
 
-## 🔍 Démarche
+##  Démarche
 
 ### 1. Analyse exploratoire (EDA)
 - Analyse univariée des variables qualitatives (SEX, EDUCATION, MARRIAGE, PAY_i) et quantitatives (LIMIT_BAL, AGE, BILL_AMT_i, PAY_AMT_i)
@@ -55,7 +55,7 @@ Dans le secteur bancaire, anticiper le défaut de paiement d'un client est un en
 
 ---
 
-## 🛠️ Stack technique
+##  Stack technique
 
 ```
 Python 3.10
@@ -80,7 +80,7 @@ credit-default-prediction/
 
 ---
 
-## 🚀 Reproduire le projet
+##  Reproduire le projet
 
 ```bash
 git clone https://github.com/ton-username/credit-default-prediction
