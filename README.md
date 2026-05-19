@@ -46,7 +46,7 @@ Predicting whether a client will default on their credit card payment is a criti
 
 | Model | Accuracy | Gini Index |
 |-------|----------|------------|
-| Logit — no scaling | 77.7% | 0.301 |
+| Logit  | 77.7% | 0.301 |
 | Logit + StandardScaler | **82.2%** | **0.528** |
 | Logit + RobustScaler | 82.2% | 0.528 |
 | Logit + SMOTE + StandardScaler | 72.5% | 0.586 |
