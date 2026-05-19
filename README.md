@@ -25,7 +25,7 @@ Predicting whether a client will default on their credit card payment is a criti
 - Class imbalance detection and visualization
 - Statistical tests: **Chi-square** for categorical variables, **ANOVA** for continuous ones
 
-### 2. Feature Selection — WOE / Information Value
+### 2. Feature Selection : WOE / Information Value
 - Computed **Weight of Evidence (WOE)** and **Information Value (IV)** for each feature
 - Most predictive variables: `PAY_0`, `PAY_2` → `PAY_6`, `LIMIT_BAL`, `PAY_AMT1`, `PAY_AMT3`
 - Multicollinearity analysis using **Cramér's V coefficient**
