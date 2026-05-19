@@ -14,7 +14,7 @@ Predicting whether a client will default on their credit card payment is a criti
 | **Dataset** | [UCI Credit Card Default Dataset](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) |
 | **Target variable** | `default.payment.next.month` (1 = default, 0 = no default) |
 | **Class imbalance** | 77% non-default / 23% default |
-| **Best model** | Logit + StandardScaler — Accuracy: 82.2% · Gini: 0.528 |
+| **Best model** | Logit + StandardScaler : Accuracy: 82.2% · Gini: 0.528 |
 
 ---
 
